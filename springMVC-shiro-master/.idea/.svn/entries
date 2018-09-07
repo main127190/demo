@@ -1,0 +1,105 @@
+10
+
+dir
+0
+svn://127.0.0.1/Android_pro/springMVC-shiro-master/trunk/.idea
+svn://127.0.0.1/Android_pro
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c62b82a9-3437-ae4b-a45a-cd80aa25518f
+
+.name
+file
+
+
+
+add
+
+artifacts
+dir
+
+
+
+add
+
+compiler.xml
+file
+
+
+
+add
+
+copyright
+dir
+
+
+
+add
+
+encodings.xml
+file
+
+
+
+add
+
+libraries
+dir
+
+
+
+add
+
+misc.xml
+file
+
+
+
+add
+
+modules.xml
+file
+
+
+
+add
+
+uiDesigner.xml
+file
+
+
+
+add
+
+vcs.xml
+file
+
+
+
+add
+
+workspace.xml
+file
+
+
+
+add
+

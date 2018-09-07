@@ -1,0 +1,322 @@
+10
+
+dir
+0
+svn://127.0.0.1/Android_pro/springMVC-shiro-master/trunk/.idea/libraries
+svn://127.0.0.1/Android_pro
+add
+
+
+
+
+
+
+
+svn:special svn:externals svn:needs-lock
+
+
+
+
+
+
+
+
+
+
+
+c62b82a9-3437-ae4b-a45a-cd80aa25518f
+
+Maven__com_alibaba_druid_1_0_27.xml
+file
+
+
+
+add
+
+Maven__com_baomidou_mybatis_plus_2_0_1.xml
+file
+
+
+
+add
+
+Maven__com_fasterxml_jackson_core_jackson_annotations_2_8_0.xml
+file
+
+
+
+add
+
+Maven__com_fasterxml_jackson_core_jackson_core_2_8_5.xml
+file
+
+
+
+add
+
+Maven__com_fasterxml_jackson_core_jackson_databind_2_8_5.xml
+file
+
+
+
+add
+
+Maven__commons_beanutils_commons_beanutils_1_8_3.xml
+file
+
+
+
+add
+
+Maven__commons_collections_commons_collections_3_2_1.xml
+file
+
+
+
+add
+
+Maven__commons_lang_commons_lang_2_4.xml
+file
+
+
+
+add
+
+Maven__commons_logging_commons_logging_1_2.xml
+file
+
+
+
+add
+
+Maven__javax_servlet_javax_servlet_api_3_0_1.xml
+file
+
+
+
+add
+
+Maven__javax_servlet_jsp_api_2_0.xml
+file
+
+
+
+add
+
+Maven__javax_servlet_jstl_1_2.xml
+file
+
+
+
+add
+
+Maven__javax_servlet_servlet_api_2_4.xml
+file
+
+
+
+add
+
+Maven__joda_time_joda_time_2_9_4.xml
+file
+
+
+
+add
+
+Maven__junit_junit_4_12.xml
+file
+
+
+
+add
+
+Maven__mysql_mysql_connector_java_5_1_40.xml
+file
+
+
+
+add
+
+Maven__net_sf_ehcache_ehcache_core_2_6_11.xml
+file
+
+
+
+add
+
+Maven__org_apache_logging_log4j_log4j_api_2_7.xml
+file
+
+
+
+add
+
+Maven__org_apache_logging_log4j_log4j_core_2_7.xml
+file
+
+
+
+add
+
+Maven__org_apache_logging_log4j_log4j_jcl_2_7.xml
+file
+
+
+
+add
+
+Maven__org_apache_logging_log4j_log4j_slf4j_impl_2_7.xml
+file
+
+
+
+add
+
+Maven__org_apache_shiro_shiro_core_1_3_2.xml
+file
+
+
+
+add
+
+Maven__org_apache_shiro_shiro_spring_1_3_2.xml
+file
+
+
+
+add
+
+Maven__org_apache_shiro_shiro_web_1_3_2.xml
+file
+
+
+
+add
+
+Maven__org_apache_velocity_velocity_1_7.xml
+file
+
+
+
+add
+
+Maven__org_aspectj_aspectjweaver_1_8_9.xml
+file
+
+
+
+add
+
+Maven__org_hamcrest_hamcrest_core_1_3.xml
+file
+
+
+
+add
+
+Maven__org_mybatis_mybatis_3_4_2.xml
+file
+
+
+
+add
+
+Maven__org_mybatis_mybatis_spring_1_3_1.xml
+file
+
+
+
+add
+
+Maven__org_slf4j_slf4j_api_1_7_21.xml
+file
+
+
+
+add
+
+Maven__org_springframework_spring_aop_4_3_5_RELEASE.xml
+file
+
+
+
+add
+
+Maven__org_springframework_spring_aspects_4_3_5_RELEASE.xml
+file
+
+
+
+add
+
+Maven__org_springframework_spring_beans_4_3_5_RELEASE.xml
+file
+
+
+
+add
+
+Maven__org_springframework_spring_context_4_3_5_RELEASE.xml
+file
+
+
+
+add
+
+Maven__org_springframework_spring_context_support_4_3_5_RELEASE.xml
+file
+
+
+
+add
+
+Maven__org_springframework_spring_core_4_3_5_RELEASE.xml
+file
+
+
+
+add
+
+Maven__org_springframework_spring_expression_4_3_5_RELEASE.xml
+file
+
+
+
+add
+
+Maven__org_springframework_spring_jdbc_4_3_5_RELEASE.xml
+file
+
+
+
+add
+
+Maven__org_springframework_spring_test_4_3_5_RELEASE.xml
+file
+
+
+
+add
+
+Maven__org_springframework_spring_tx_4_3_5_RELEASE.xml
+file
+
+
+
+add
+
+Maven__org_springframework_spring_web_4_3_5_RELEASE.xml
+file
+
+
+
+add
+
+Maven__org_springframework_spring_webmvc_4_3_5_RELEASE.xml
+file
+
+
+
+add
+
